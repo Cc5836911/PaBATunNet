@@ -2,7 +2,7 @@
        Python == 3.8.0
        Tensorflow == 2.10.0
        Jupyter == 1.0.0
-       scikit-learn == 1.1.3
+       scikit-learn == 1.1.3/n
 在PaBATunNet文件夹中：
        beerdemo:啤酒近红外光谱数据处理
        dieseldemo：柴油近红外光谱数据处理
